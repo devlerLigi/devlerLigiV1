@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mac/.android/build-cache/a40f6d74de5b0a4ae47105211d2ba35c7f0ae18d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/9e3b0dc76e3ebb705b7d6b4ca5b65cc7ccfd1147/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mac/.android/build-cache/fef4f06c9246a88af262ce1ddb673ae846bc59cd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mac/.android/build-cache/1cf2717ca4fc7d71626b4ee7f42da0741a7b8765/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mac/.android/build-cache/85ba1853b90f06714f2e77859df0f19821b1a724/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/3b957a42629c7a7a25bd471453d40cb42fbbc6e6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/9f50d8241935fd0ac51d19c2d18ea7ebfbb73330/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/861ffa4f150dc78ad826881d6a3ec61ed804579f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.android/build-cache/d2951ffad2ff88cd20f6ef606d275162a95c05cc/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.mac.githubdemougur.MainActivity
+ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mac/.android/build-cache/a40f6d74de5b0a4ae47105211d2ba35c7f0ae18d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/9e3b0dc76e3ebb705b7d6b4ca5b65cc7ccfd1147/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mac/.android/build-cache/fef4f06c9246a88af262ce1ddb673ae846bc59cd/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mac/.android/build-cache/1cf2717ca4fc7d71626b4ee7f42da0741a7b8765/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mac/.android/build-cache/85ba1853b90f06714f2e77859df0f19821b1a724/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/3b957a42629c7a7a25bd471453d40cb42fbbc6e6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/9f50d8241935fd0ac51d19c2d18ea7ebfbb73330/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/861ffa4f150dc78ad826881d6a3ec61ed804579f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.android/build-cache/d2951ffad2ff88cd20f6ef606d275162a95c05cc/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mac/.android/build-cache/a40f6d74de5b0a4ae47105211d2ba35c7f0ae18d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/9e3b0dc76e3ebb705b7d6b4ca5b65cc7ccfd1147/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mac/.android/build-cache/fef4f06c9246a88af262ce1ddb673ae846bc59cd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mac/.android/build-cache/1cf2717ca4fc7d71626b4ee7f42da0741a7b8765/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mac/.android/build-cache/85ba1853b90f06714f2e77859df0f19821b1a724/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/3b957a42629c7a7a25bd471453d40cb42fbbc6e6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mac/.android/build-cache/9f50d8241935fd0ac51d19c2d18ea7ebfbb73330/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mac/.android/build-cache/861ffa4f150dc78ad826881d6a3ec61ed804579f/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/AndroidManifest.xml:26:9-47

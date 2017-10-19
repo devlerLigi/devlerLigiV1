@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/GitHub/devlerLigiV1/githubdemougur/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/97a2ed55a1d09c54dd092387d2fd62548dbd32d9/output/res/color/switch_thumb_material_dark.xml"
+    }
+]
