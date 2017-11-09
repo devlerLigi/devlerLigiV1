@@ -1,0 +1,37 @@
+<locations>
+
+	<locationID_1>
+		<userID_1> pin i bırakan kişi
+		<country_code>
+		<country_name>
+		<timeStamp>
+		<postalCode>
+		<thorough>
+		<subThorough>
+		<geoLocation>
+		   	<latitude>
+			<longitude>
+
+	<locationID_2>
+		<userID_1>
+		<country_code>
+		<country_name>
+		<timeStamp>
+		<postalCode>
+		<thorough>
+		<subThorough>
+		<geoLocation>
+			<latitude>
+			<longitude>
+
+	<locationID_3>
+		<userID_2>
+		<country_code>
+		<country_name>
+		<timeStamp>
+		<postalCode>
+		<thorough>
+		<subThorough>
+		<geoLocation>
+			<latitude>
+			<longitude>
