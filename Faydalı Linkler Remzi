@@ -5,3 +5,5 @@ pushViewController like performSegue with paramter: https://learnappmaking.com/p
 Rob Storyboars: https://github.com/rob-brown/RBStoryboardLink
 Page View Controller İle Ekran Yapma: http://swiftiostutorials.com/ios-tutorial-using-uipageviewcontroller-create-content-slider-objective-cswift/
 Button checkbox olarak kullanma image ile : https://stackoverflow.com/questions/41344895/the-best-way-to-use-checkbox-ios-swift
+Referance Storyboard oluşturma: https://cocoacasts.com/organizing-storyboards-with-storyboard-references
+Textfield combobax: https://github.com/bartjacobs/OrganizingStoryboardsWithStoryboardReferences
