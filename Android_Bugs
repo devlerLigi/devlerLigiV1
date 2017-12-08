@@ -1,2 +1,4 @@
 1-Gender seciminde bosluk a tiklayinca da gender secimi yapiliyor.
 2-Email verify yapildiktan sonra Aktiflestir butonuna tek tiklayinca isEmailVerify false donuyor, 2. tiklamada true donuyor.
+3-ViewPagerlar arasi gecis icin runnable fonksiyon yazilabilir mi?
+4-Camera ile cekilen foto hatali gorunuyor imageview uzerinde.
