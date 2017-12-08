@@ -1,0 +1,2 @@
+1-Gender seciminde bosluk a tiklayinca da gender secimi yapiliyor.
+2-Email verify yapildiktan sonra Aktiflestir butonuna tek tiklayinca isEmailVerify false donuyor, 2. tiklamada true donuyor.
