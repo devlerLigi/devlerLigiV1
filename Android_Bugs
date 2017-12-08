@@ -13,3 +13,4 @@
 13-LoginPage sayfasinda Login butonu width edittext ile ayni olsun ve fontu degistirelim.
 14-LoginPage sayfasinda remember me tiklanip bilgiler girildiginde remember me calismiyor.
 15-LoginPage sayfasinda forgot password alertinde title degistirelim ve button font degistirelim.
+16-Login ve Register sayfalari klavyeler birbirinden farkli.
