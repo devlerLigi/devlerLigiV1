@@ -5,7 +5,7 @@
 
 6-Fotoraf storage e circle atiliyor.
 7-Register sayfasinda edittext left drawable iconlari ekleyelim.
-8-Register sayfasinda phone format icin eklenen kodlari cikaralim.
+
 9-Button style tam circle degil.
 10-ProfilePhoto sayfasinda toolbar olsun.
 11-EmailVerify sayfasinda Aktiflestir butonu fontu degistirelim ve width edittext ile ayni olsun.
@@ -19,3 +19,4 @@
 
 OK-2-Email verify yapildiktan sonra Aktiflestir butonuna tek tiklayinca isEmailVerify false donuyor, 2. tiklamada true donuyor.
 OK-5-Register page sayfasinda register butonu edittext ile ayni width olsun.
+OK-8-Register sayfasinda phone format icin eklenen kodlari cikaralim.
