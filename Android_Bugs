@@ -1,4 +1,4 @@
-1-Gender seciminde bosluk a tiklayinca da gender secimi yapiliyor.
+
 
 3-ViewPagerlar arasi gecis icin runnable fonksiyon yazilabilir mi?
 4-Camera ile cekilen foto hatali gorunuyor imageview uzerinde.
@@ -20,4 +20,4 @@ OK-13-LoginPage sayfasinda Login butonu width edittext ile ayni olsun ve fontu d
 OK-14-LoginPage sayfasinda remember me tiklanip bilgiler girildiginde remember me calismiyor.
 OK-15-LoginPage sayfasinda forgot password alertinde title degistirelim ve button font degistirelim.
 OK-2-Email verify yapildiktan sonra Aktiflestir butonuna tek tiklayinca isEmailVerify false donuyor, 2. tiklamada true donuyor.
-
+OK-1-Gender seciminde bosluk a tiklayinca da gender secimi yapiliyor.
