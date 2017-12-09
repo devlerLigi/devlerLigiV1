@@ -14,3 +14,7 @@
 14-LoginPage sayfasinda remember me tiklanip bilgiler girildiginde remember me calismiyor.
 15-LoginPage sayfasinda forgot password alertinde title degistirelim ve button font degistirelim.
 16-Login ve Register sayfalari klavyeler birbirinden farkli.
+
+
+
+OK-2-Email verify yapildiktan sonra Aktiflestir butonuna tek tiklayinca isEmailVerify false donuyor, 2. tiklamada true donuyor.
