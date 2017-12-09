@@ -2,15 +2,9 @@
 2-Email verify yapildiktan sonra Aktiflestir butonuna tek tiklayinca isEmailVerify false donuyor, 2. tiklamada true donuyor.
 3-ViewPagerlar arasi gecis icin runnable fonksiyon yazilabilir mi?
 4-Camera ile cekilen foto hatali gorunuyor imageview uzerinde.
-
 6-Fotoraf storage e circle atiliyor.
 7-Register sayfasinda edittext left drawable iconlari ekleyelim.
-
 9-Button style tam circle degil.
-10-ProfilePhoto sayfasinda toolbar olsun.
-11-EmailVerify sayfasinda Aktiflestir butonu fontu degistirelim ve width edittext ile ayni olsun.
-12-EmailVerify sayfasinda Epostayi yeniden gonder" underline ekleyelim.
-13-LoginPage sayfasinda Login butonu width edittext ile ayni olsun ve fontu degistirelim.
 14-LoginPage sayfasinda remember me tiklanip bilgiler girildiginde remember me calismiyor.
 15-LoginPage sayfasinda forgot password alertinde title degistirelim ve button font degistirelim.
 16-Login ve Register sayfalari klavyeler birbirinden farkli.
@@ -20,3 +14,8 @@
 OK-2-Email verify yapildiktan sonra Aktiflestir butonuna tek tiklayinca isEmailVerify false donuyor, 2. tiklamada true donuyor.
 OK-5-Register page sayfasinda register butonu edittext ile ayni width olsun.
 OK-8-Register sayfasinda phone format icin eklenen kodlari cikaralim.
+OK-10-ProfilePhoto sayfasinda toolbar olsun.
+OK-11-EmailVerify sayfasinda Aktiflestir butonu fontu degistirelim ve width edittext ile ayni olsun.
+OK-12-EmailVerify sayfasinda Epostayi yeniden gonder" underline ekleyelim.
+OK-13-LoginPage sayfasinda Login butonu width edittext ile ayni olsun ve fontu degistirelim.
+
